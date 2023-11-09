@@ -1,0 +1,3 @@
+Description: 
+
+You design your guessing game based on a series of questions. Each question has a “Yes” and a “No” answer. You can think of “Yes” as the link to left-child node and “No” as the link to the right-child node. These links lead to a path when you can make a conclusion at the leaf-node. You can pick any domain subject to create this game. It can be a “Movie Guessing Game” as my example or a car guessing or an animal identification game, etc.
